@@ -250,7 +250,8 @@ $$
 
 3. **Coefficiente di Determinazione (R²)**:
 $$
-R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}
+R^{2} = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^{2}}
+               {\sum_{i=1}^{n} (y_i - \bar{y})^{2}}
 $$
 
 Dove $\bar{y}$ è la media dei valori reali.
