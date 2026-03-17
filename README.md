@@ -102,9 +102,9 @@ y_test_scaled = scaler_y.transform(y_test.reshape(-1, 1))
 
 Ogni feature viene standardizzata per avere media 0 e deviazione standard 1:
 
-$$
+$
 x_{\text{standardizzato}} = \frac{x - \mu}{\sigma}
-$$
+$
 
 Dove $\mu$ è la media e $\sigma$ è la deviazione standard della feature.
 
